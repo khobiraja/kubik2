@@ -2,20 +2,20 @@
 date_default_timezone_set('Asia/Jakarta');
 require_once("sdata-modules.php");
 /**
- * @Author: Khobir Aja
+ * @Author: Eka Syahwan
  * @Date:   2017-12-11 17:01:26
- * @Last Modified by:   Khobir Aja
+ * @Last Modified by:   Eka Syahwan
  * @Last Modified time: 2018-08-17 15:13:34
 */
 
 
 ##############################################################################################################
-$config['deviceCode'] 		= '356043082086042';
-$config['tk'] 				= 'ACE3ipy_d0NKLpycE9RTKPMvYquozwVKvbJxdHRodw';
-$config['token'] 			= '5399OepAytIrmyhEiGRbXWZ1wOGnDEtdgA4ECu18Ixuzjikf1HLPTY8-lnwWHIMOogB7srpwNh4xzL4';
-$config['uuid'] 			= '6696bf7a3e4c4547bd0a3406250242fb';
-$config['sign'] 			= '8f98bcde83216b7ecb63af3fbbe0875b';
-$config['android_id'] 		= 'e93cdd330a690418';
+$config['deviceCode'] 		= '3551230xxxxxxx';
+$config['tk'] 				= 'ACGmNhoexxxxxx';
+$config['token'] 			= '35a7oDTxxxxxxx';
+$config['uuid'] 			= 'abdacad4xxxxxx4';
+$config['sign'] 			= '12988158bxxxxxx';
+$config['android_id'] 		= 'a28a65fbbxxxxxx';
 ##############################################################################################################
 
 
